@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# High-value content pages for ranking
+Allow: /guides/best-1200-gaming-pc-september-2025
+Allow: /guides/pc-compatibility-10-rules  
+Allow: /guides/sff-build-fractal-terra
+
+# Allow core functionality pages
+Allow: /builder
+Allow: /presets
+Allow: /build/*
+
+# Sitemap location
+Sitemap: https://eliterigs.replit.app/sitemap.xml
+
+# Block development/debugging pages
+Disallow: /debug*
+Disallow: /__*

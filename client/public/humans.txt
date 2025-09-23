@@ -1,0 +1,34 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Developer: EliteRigs Development Team
+  Site: https://eliterigs.replit.app
+  Contact: support@eliterigs.com
+  Location: Global
+
+# THANKS
+
+  Replit: https://replit.com
+  React: https://reactjs.org
+  Tailwind CSS: https://tailwindcss.com
+  Shadcn/ui: https://ui.shadcn.com
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
+  TypeScript, React
+  Express.js, Node.js
+  Tailwind CSS, Radix UI
+  Vite, PostCSS
+  PostgreSQL, Drizzle ORM
+
+# REPOSITORY
+
+  Source: https://replit.com/@eliterigs/pc-builder
+  License: MIT
+
+# LAST UPDATE
+
+  2025/09/22

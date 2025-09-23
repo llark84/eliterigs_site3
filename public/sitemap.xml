@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://eliterigs.replit.app/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- PC Builder Tool -->
+  <url>
+    <loc>https://eliterigs.replit.app/builder</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Build Presets -->
+  <url>
+    <loc>https://eliterigs.replit.app/presets</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Specific Preset: Terra RTX 4080S Build -->
+  <url>
+    <loc>https://eliterigs.replit.app/presets/terra-4080s</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Content Guides Section -->
+  
+  <!-- Best $1,200 Gaming PC Guide -->
+  <url>
+    <loc>https://eliterigs.replit.app/guides/best-1200-gaming-pc-september-2025</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PC Compatibility Rules Guide -->
+  <url>
+    <loc>https://eliterigs.replit.app/guides/pc-compatibility-10-rules</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- SFF Terra Build Guide -->
+  <url>
+    <loc>https://eliterigs.replit.app/guides/sff-build-fractal-terra</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Example Build Share -->
+  <url>
+    <loc>https://eliterigs.replit.app/build/build-gaming-rtx4080-setup</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Legacy Guide Redirects -->
+  <url>
+    <loc>https://eliterigs.replit.app/guides/best-1500-build</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
